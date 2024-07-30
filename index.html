@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="./styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de IMC</title>
+</head>
+<body>
+
+    <div class="container">
+        <img src="./img/haltere.png" alt="">
+        <h1>Calculadora-IMC</h1>
+       
+  
+<div class="caixa-apv">
+ 
+    <div class="flex">   
+        <p>Altura(m):</p>
+    <input type="text" placeholder="Altura" class="altura" maxlength="4" step="0.01">
+</div>
+<div class="flex">
+     <p>Peso(kg):</p><input placeholder="Peso" class="peso"  type="number">
+    </div>
+</div>
+     
+         
+          <button class="btnresult" onclick="resulta()">Resultado</button>
+
+           <p  class="valor">...</p>
+           <div class="resultado">
+            
+            <p class="imc"></p>
+        </div>
+      
+    </div>
+    <div class="obs">
+<p>Lembrando que o IMC é uma ferramenta inicial de avaliação e não deve ser usada isoladamente para determinar o estado de saúde de uma pessoa. Consulte sempre um profissional de saúde para uma avaliação individualizada e mais detalhada.
+     </p>
+    </div>
+</div>
+
+<script src="./scripts.js"></script>
+</body>
+</html>
