@@ -1,5 +1,8 @@
-<img src="https://media.discordapp.net/attachments/1225612992201363552/1320148911385739264/img-p-imc-pc.png?ex=67688bfb&is=67673a7b&hm=118b4ce157bafe18179267f47675d3fed4a4f750832b956ebbcac406bcb208f5&=&format=webp&quality=lossless&width=705&height=328"/>
-<img src="https://media.discordapp.net/attachments/1225612992201363552/1320149229921898577/1-imc.png?ex=67688c47&is=67673ac7&hm=4f0c3084c79ef3eda7851861a2b7fab340353677a7ff7352b7f0b2fb62f53680&=&format=webp&quality=lossless&width=705&height=316"/>
+# Screenshots
+
+<img src="https://github.com/Hernandessn/calculadora-imc/blob/main/screenshot/screenshot-1.png?raw=true"/>
+<img src="https://github.com/Hernandessn/calculadora-imc/blob/main/screenshot/screenshot-2.png?raw=true"/>
+
 
 # 📊 Calculadora de IMC  
 
